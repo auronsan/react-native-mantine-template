@@ -95,46 +95,6 @@ export default function App() {
 }
 ```
 
-### Available Components
-
-React Native Mantine includes 50+ components organized into categories:
-
-**Core Components:**
-- Button, ActionIcon, UnstyledButton
-- Text, Title, Highlight
-- Stack, Group, BoxView
-- Input, TextInput, Textarea
-
-**Layout Components:**
-- Container, Center, Flex
-- Grid, SimpleGrid
-- Space, Divider
-
-**Form Components:**
-- Checkbox, Radio, Switch
-- Select, MultiSelect, NativeSelect
-- PasswordInput, NumberInput, PinInput
-- Slider, Rating
-
-**Feedback Components:**
-- Badge, Loader, Progress
-- Skeleton, Notification
-- Modal, Dialog, Drawer
-
-**Data Display:**
-- Card, Paper, Avatar
-- Table, List, Timeline
-- Accordion, Collapse, Spoiler
-
-**Navigation:**
-- Anchor, NavLink, Breadcrumbs
-- Pagination, Stepper, SegmentedControl
-
-**Utilities:**
-- Portal, Overlay, Transition
-- Burger, CloseButton, CopyButton
-- ThemeIcon, ColorSwatch, Indicator
-
 For detailed documentation and examples, visit the [React Native Mantine GitHub repository](https://github.com/auronsan/react-native-mantine).
 
 ## Theme Customization
