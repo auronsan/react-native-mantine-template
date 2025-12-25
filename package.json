@@ -1,6 +1,7 @@
 {
   "name": "react-native-mantine-template",
   "version": "1.0.0",
+  "description": "A starter template for React Native applications using React Native Mantine component library",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
@@ -8,11 +9,34 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "keywords": [
+    "react-native",
+    "mantine",
+    "template",
+    "starter",
+    "expo",
+    "typescript",
+    "ui-library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auronsan/react-native-mantine-template"
+  },
+  "author": "React Native Mantine Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auronsan/react-native-mantine/issues"
+  },
+  "homepage": "https://github.com/auronsan/react-native-mantine-template#readme",
   "dependencies": {
     "expo": "~54.0.30",
+    "expo-clipboard": "^8.0.8",
+    "expo-font": "^14.0.10",
+    "expo-linear-gradient": "^15.0.8",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-mantine": "^0.2.0"
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
