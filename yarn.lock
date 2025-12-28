@@ -3578,10 +3578,10 @@ react-native-is-edge-to-edge@^1.2.1:
   resolved "https://registry.yarnpkg.com/react-native-is-edge-to-edge/-/react-native-is-edge-to-edge-1.2.1.tgz#64e10851abd9d176cbf2b40562f751622bde3358"
   integrity sha512-FLbPWl/MyYQWz+KwqOZsSyj2JmLKglHatd3xLZWskXOpRaio4LfEDEz8E/A6uD8QoTHW6Aobw1jbEwK7KMgR7Q==
 
-react-native-mantine@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-mantine/-/react-native-mantine-0.7.0.tgz#7e612ff687974fdcaca4417cd5782911e8702f07"
-  integrity sha512-/vMLUKtgidsJ3RteVKIAZERIGTGl3+V7RT9PSZmHsOhwZBNBzg0NqgRWODBZ5x6lK/VhnrhSjwIkgvlr77WacA==
+react-native-mantine@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/react-native-mantine/-/react-native-mantine-0.8.0.tgz#991d970a1d044d5b10c4dde1005b6446e0fc3033"
+  integrity sha512-ttzBHmuZNe8xakD0ObGB2Okkc0PnClPqc6gUs7e+6Ku8zqDbbd8VFDMX7tNv8kVWn+fSAuVf+TOvE7GPcHUuWw==
   dependencies:
     expo-clipboard "~8.0.8"
     expo-font "~14.0.10"
